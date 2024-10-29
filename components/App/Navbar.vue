@@ -44,7 +44,7 @@ const { styles } = useFixedHeader(headerRef);
 const items = [
   { name: "Home", path: "/", icon: "solar:home-smile-outline" },
   {
-    name: "Projects",
+    name: "Products",
     path: "/projects",
     icon: "solar:folder-with-files-outline",
   },

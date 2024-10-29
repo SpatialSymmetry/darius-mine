@@ -1,7 +1,7 @@
 <template>
   <main class="min-h-screen">
     <AppHeader class="mb-8" title="Bookmarks" :description="description" />
-    <ul class="space-y-2">
+    <!-- <ul class="space-y-2">
       <li v-for="bookmark in bookmarks" :key="bookmark.id">
         <a
           :href="bookmark.url"
@@ -22,15 +22,15 @@
           </span>
         </a>
       </li>
-    </ul>
+    </ul> -->
   </main>
 </template>
 
 <script setup>
 const description =
-  "Awesome things I've found on the internet. This page is still WIP, I want to add search like bmrks.com";
+  "Awesome things I've found on Darius Mine.";
 useSeoMeta({
-  title: "Bookmarks | Fayaz Ahmed",
+  title: "Bookmarks | Darius Mine",
   description,
 });
 

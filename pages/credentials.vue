@@ -1,6 +1,6 @@
 <template>
   <main class="min-h-screen">
-    <AppHeader class="mb-8" title="Bookmarks" :description="description" />
+    <AppHeader class="mb-8" title="Credentials" :description="description" />
     <!-- <ul class="space-y-2">
       <li v-for="bookmark in bookmarks" :key="bookmark.id">
         <a
@@ -28,9 +28,9 @@
 
 <script setup>
 const description =
-  "Awesome things I've found on Darius Mine.";
+  "Our credentials reflect our dedication to quality, adherence to industry standards, and trusted expertise in mining materials and equipment.";
 useSeoMeta({
-  title: "Bookmarks | Darius Mine",
+  title: "Credentials | Darius Mine",
   description,
 });
 

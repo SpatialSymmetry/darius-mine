@@ -46,23 +46,29 @@ const items = [
   {
     name: "Products",
     path: "/projects",
-    icon: "solar:folder-with-files-outline",
+    icon: "bi:minecart-loaded",
   },
   {
     name: "Articles",
     path: "/articles",
     icon: "solar:document-add-outline",
   },
-  { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
+  // { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
   {
-    name: "What's in my bag?",
-    path: "/whats-in-my-bag",
-    icon: "solar:backpack-outline",
+    name: "Contact Us",
+    path: "/contact",
+    icon: "mi:call",
   },
+
   {
-    name: "Bookmarks",
-    path: "/bookmarks",
-    icon: "solar:bookmark-linear",
+    name: "Credentials",
+    path: "/credentials",
+    icon: "hugeicons:tick-double-03",
   },
+  // {
+  //   name: "Bookmarks",
+  //   path: "/bookmarks",
+  //   icon: "solar:bookmark-linear",
+  // },
 ];
 </script>

@@ -1,11 +1,13 @@
 <template>
   <main class="min-h-screen">
-    <div class="space-y-24">
+    <div class="space-y-8">
       <HomeIntro />
-      <HomeSocialLinks />
+      
+      <iframe src="https://lottie.host/embed/94517dfd-c47f-44f7-a230-a179d873e5ac/lNhBLWctvD.json"></iframe>
       <HomeFeaturedProjects />
       <HomeFeaturedArticles />
-      <HomeNewsletter />
+      <!-- <HomeSocialLinks /> -->
+      <!-- <HomeNewsletter /> -->
     </div>
   </main>
 </template>

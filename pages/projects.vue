@@ -13,9 +13,9 @@
 
 <script setup>
 const description =
-  "The products that we offer in Darius Mine.";
+  "At Darius Mine, we offer high-quality products designed to meet the demands of modern mining. Our range includes essential materials, tools, and equipment to ensure efficient and reliable operations..";
 useSeoMeta({
-  title: "Projects | Darius Mine",
+  title: "Products | Darius Mine",
   description,
 });
 

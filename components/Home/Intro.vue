@@ -6,8 +6,9 @@
     <h1 class="text-xl font-bold tracking-tight text-gray-800 dark:text-gray-100">
       Darius Mine ⛏️ 💎
     </h1>
+
     <p class="text-gray-900 dark:text-gray-400">
-      Discover Darius Mine, the ultimate platform for sourcing high-quality mining materials, tools, and equipment. Designed with miners, contractors, and industry experts in mind, we bring together a wide range of essentials to power your projects and ensure efficient, safe, and sustainable operations. From raw materials to specialized tools, Darius Mine is here to meet your needs with unbeatable selection, expert support, and a seamless shopping experience. Join us in building the future of mining!
+      Explore, buy, and sell mining materials, tools, and equipment – all in one place. Darius Mine connects miners, contractors, and industry experts with everything needed for efficient and sustainable operations.
     </p>
     <!-- <p class="text-gray-900 dark:text-gray-400">
       By day, I'm a Fullstack Developer at

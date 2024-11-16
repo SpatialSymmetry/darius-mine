@@ -2,7 +2,7 @@
   <main class="min-h-screen">
     <AppHeader
       class="mb-12"
-      title="What's in my bag?"
+      title="Contact"
       :description="description"
     />
     <!-- <div class="space-y-24">
@@ -28,9 +28,9 @@
 
 <script setup>
 const description =
-  "Software I use, gadgets I love, and other things I recommend. Here’s a big list of all of my favorite stuff.";
+  "Get in touch with Darius Mine for inquiries, support, or partnership opportunities. We’re here to provide the information and assistance you need.";
 useSeoMeta({
-  title: "Things I use | Darius Mine",
+  title: "Contact Us | Darius Mine",
   description,
 });
 const { data: items } = await useAsyncData("uses", () =>
